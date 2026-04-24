@@ -1,1 +1,2 @@
 This file should be pushed to the repository.
+It is used to log the output of the import process, including any errors or warnings that may occur. This log can be helpful for debugging and tracking the progress of the import. Make sure to review the log regularly to identify any issues and ensure a smooth import process.
